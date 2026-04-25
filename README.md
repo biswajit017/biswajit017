@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:  Building scalable integration patterns using MuleSoft and Java backends.<br><br>👯 I’m looking to collaborate on:  Open-source Java projects or AI-driven integration tools.<br><br>🌱 I’m currently learning:  Machine Learning fundamentals, Python, and integrating AI models into existing APIs.<br><br>💬 Ask me about:  MuleSoft Anypoint Platform, Java development, and API design.<br><br>⚡ Fun fact: * I enjoy finding the shortest path between two data points—whether in an integration flow or a neural network!
+🔭 I’m currently working on: * Building scalable integration patterns using MuleSoft and Java backends.<br><br>👯 I’m looking to collaborate on: * Open-source Java projects or AI-driven integration tools.<br><br>🌱 I’m currently learning: * Machine Learning fundamentals, Python, and integrating AI models into existing APIs.<br><br>💬 Ask me about: * MuleSoft Anypoint Platform, Java development, and API design.<br><br>⚡ Fun fact: * I enjoy finding the shortest path between two data points—whether in an integration flow or a neural network!
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=biswajit017&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=biswajit017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️  Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
